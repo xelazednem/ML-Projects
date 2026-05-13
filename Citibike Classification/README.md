@@ -15,7 +15,7 @@ The primary objective was to determine if user status (Member vs. Casual) could 
 Citi Bike trip data was sourced from the [Official Citi Bike System Data Page](https://citibikenyc.com/system-data). The analysis specifically utilized data from **March 2026**.
 
 ### Full Analysis & Documentation
-* **Technical Write-up:** For results, methods, and statistical methodology, please review the **[Citibike Classification - Write Up.pdf](./Citibike%20Classification%20-%20Write%20Up.pdf)**
+* **Technical Write-up:** For results, methods, and statistical methodology, please review the **[Citibike Classification - Write Up.pdf](./reports/Citibike%20Classification%20-%20Write%20Up.pdf)**
 * **Source Code:** Data cleaning, merging, and modeling scripts are located in the **`notebooks/`** directory.
 
 ### Technical Process Note 
