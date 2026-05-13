@@ -21,7 +21,7 @@ This project utilizes approximately 2.9 million rows of public Citibike data fro
 ---
 
 ## Technical Process Note 
-Generative AI was utilized as a productivity tool for borough coordinate mapping and data visualization syntax. All statistical interpretation, model tuning strategy, and business conclusions are original.
+Generative AI was utilized as a productivity tool for borough coordinate mapping and data visualization syntax. All statistical interpretation and model tuning are original.
 
 ## Sources & References
 * **Géron, Aurélien.** *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow*. 2nd ed., O'Reilly Media, 2019.
