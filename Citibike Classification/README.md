@@ -25,4 +25,5 @@ Generative AI was utilized as a productivity tool for borough coordinate mapping
 * **Géron, Aurélien.** *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow*. 2nd ed., O'Reilly Media, 2019.
 * **NYC Open Data Portal.** "Citi Bike System Data" & "Borough Boundaries," 2026.
 * **Lyft Bikes and Scooters, LLC.** "System Data," Citi Bike NYC, 2026.
+* **Gemini 3 Flash
 
